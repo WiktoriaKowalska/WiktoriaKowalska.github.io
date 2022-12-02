@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Wiktoria Kowalska - AGH student
-description: Hi, my name's Wiktoria. I'm a Computer Science student at AGH University of Science and Technology in Kraków. Check my Github account to see my projects.
+description: Hi, my name's Wiktoria. I'm a Computer Science student at AGH University of Science and Technology in Kraków. Check my Github account to see my projects
